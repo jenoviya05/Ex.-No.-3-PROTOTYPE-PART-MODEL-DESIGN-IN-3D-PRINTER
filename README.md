@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 13/03/2026
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -16,25 +16,24 @@
 
 ### Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option as shown in below figure.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/059ab4e7-f3fb-49a9-ba8e-12bdd082abef)
 
 ### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/835c55fd-6195-4d73-9f5c-4af36f5a4cce)
 
 ### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/8736080c-f421-4dd0-bae8-860df6f3583e)
+
 
 ### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/98458892-2f68-4de0-bec7-24959ec598fa)
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/f4b8b55e-6cb2-46a7-b42c-180bc5e68668)
+<img width="1919" height="1079" alt="Screenshot 2026-03-24 210403" src="https://github.com/user-attachments/assets/3090d87a-beb5-4ea7-9073-14dd6941021f" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-24 210458" src="https://github.com/user-attachments/assets/f650de1e-f2d8-44f5-9900-2e1260fb69b7" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-24 210528" src="https://github.com/user-attachments/assets/df433d0e-caee-48a4-a85e-49f7769c25a7" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-24 210635" src="https://github.com/user-attachments/assets/b8009c3f-c3a2-4e62-86b2-0730ea88867f" />
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/eafa933a-7e03-4f73-930d-75fb28d48716)
 
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
 ###   1.	Switch on the 3d printer.
@@ -46,9 +45,12 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![WhatsApp Image 2026-03-24 at 9 41 23 PM](https://github.com/user-attachments/assets/fc277d16-d5e7-487a-b22f-13f2fde214b0)
+![WhatsApp Image 2026-03-24 at 9 41 39 PM](https://github.com/user-attachments/assets/836f52d1-2cb6-48c3-ad6e-4d5c019b86e3)
 
-### Name:
-### Register Number:
+
+### Name: Jenoviya D
+### Register Number: 212225040151
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
